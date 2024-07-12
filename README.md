@@ -42,6 +42,16 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - Technologies used: List.
   - Link: [GitHub Repository](link-to-project)
 
+  -**DocHistory Management System**
+  -**Tech Stack**: Python, Flask, SQLite, HTML, CSS, JavaScript
+
+    -Developed a web application for managing and tracking document revisions.
+    -Utilized Flask for the backend and SQLite for database management.
+    -Designed intuitive front-end interfaces using HTML, CSS, and JavaScript.
+    -Implemented robust functionality to store, update, and retrieve document history.
+    -Managed configurations with JSON to ensure flexibility and maintainability.
+    -GitHub: DocHistory Management System
+
 ## Contact
 
 Feel free to reach out to me at [sikhakollisurya03@gmail.com](mailto:sikhakollisurya03@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/sikhakollisurya).

@@ -31,7 +31,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - Another badge or certificate - Description.
 
 ## Projects
-<--
+<!--
 - **Project Name**
   - Description: Brief overview of the project.
   - Technologies used: List of technologies.
@@ -43,7 +43,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - Link: [GitHub Repository](link-to-project)
 -->
 - **Fetal-AI**
-  - ** Tech Stack**: Python, Jupyter Notebook, HTML, CSS, JavaScript
+  - **Tech Stack**: Python, Jupyter Notebook, HTML, CSS, JavaScript
 
   - **Objective**:
     - Developed an AI-powered system to assist in fetal health analysis.
@@ -58,8 +58,10 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - **Repository Highlights**:
     - Contains source codes and a demo link for practical understanding.
     - Detailed documentation within notebooks explaining each step of the process.
-  - GitHub: [Fetal-AI](https://github.com/sikhakollisurya/Fetal-AI)
+  - GitHub: [Fetal-AI codes and documents](https://github.com/sikhakollisurya/Fetal-AI/tree/main/Fetal_AI_source_codes)
+  - YouTube: [Fetal-AI demo video](https://youtu.be/rvJUvkdkcpM)
  
+
 
 - **DocHistory Management System**
   - **Tech Stack**: Python, Flask, SQLite, HTML, CSS, JavaScript

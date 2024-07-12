@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 # My Achievements and Projects
 
 Welcome to my portfolio! Here you will find a collection of my coding achievements and projects.
@@ -29,6 +30,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
 - **Hackerrank**
   - [Certificate Name](https://www.hackerrank.com/profile/sikhakollisurya1) - Description of what you learned and accomplished.
   - Another badge or certificate - Description.
+  -->
 
 ## Projects
 <!--

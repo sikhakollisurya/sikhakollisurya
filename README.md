@@ -31,7 +31,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - Another badge or certificate - Description.
 
 ## Projects
-
+<--
 - **Project Name**
   - Description: Brief overview of the project.
   - Technologies used: List of technologies.
@@ -41,6 +41,25 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - Description: Brief overview.
   - Technologies used: List.
   - Link: [GitHub Repository](link-to-project)
+-->
+- **Fetal-AI**
+  - ** Tech Stack**: Python, Jupyter Notebook, HTML, CSS, JavaScript
+
+  - **Objective**:
+    - Developed an AI-powered system to assist in fetal health analysis.
+  - **Key Features**:
+    - Utilized machine learning algorithms to predict fetal health status based on various parameters.
+    - Implemented data preprocessing techniques to clean and prepare datasets for training.
+    - Created visualizations to interpret model performance and predictions.
+  - **Technologies Used**:
+    - Python for backend logic and data processing.
+    - Jupyter Notebook for developing and testing machine learning models.
+    - HTML for creating a basic user interface.
+  - **Repository Highlights**:
+    - Contains source codes and a demo link for practical understanding.
+    - Detailed documentation within notebooks explaining each step of the process.
+  - GitHub: [Fetal-AI](https://github.com/sikhakollisurya/Fetal-AI)
+ 
 
 - **DocHistory Management System**
   - **Tech Stack**: Python, Flask, SQLite, HTML, CSS, JavaScript
@@ -50,7 +69,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
     - Designed intuitive front-end interfaces using HTML, CSS, and JavaScript.
     - Implemented robust functionality to store, update, and retrieve document history.
     - Managed configurations with JSON to ensure flexibility and maintainability.
-    - GitHub: DocHistory Management System
+    - GitHub: [DocHistory Management System](https://github.com/sikhakollisurya/DocHistory-Management-System)
 
 ## Contact
 

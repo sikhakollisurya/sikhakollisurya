@@ -65,7 +65,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
  
 
 
-- **DocHistory Management System**
+- ## DocHistory Management System
   - **Tech Stack**: Python, Flask, SQLite, HTML, CSS, JavaScript
 
     - Developed a web application for managing and tracking document revisions.

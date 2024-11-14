@@ -32,7 +32,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - Another badge or certificate - Description.
   -->
 
-## Projects
+### Projects
 <!--
 - **Project Name**
   - Description: Brief overview of the project.
@@ -44,7 +44,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - Technologies used: List.
   - Link: [GitHub Repository](link-to-project)
 -->
-- **Fetal-AI**
+- ## Fetal-AI
   - **Tech Stack**: Python, Jupyter Notebook, HTML, CSS, JavaScript
 
   - **Objective**:

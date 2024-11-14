@@ -32,7 +32,7 @@ Welcome to my portfolio! Here you will find a collection of my coding achievemen
   - Another badge or certificate - Description.
   -->
 
-### Projects
+# Projects
 <!--
 - **Project Name**
   - Description: Brief overview of the project.
